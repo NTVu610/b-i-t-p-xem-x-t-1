@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+  width: 90rem;
+  height: 90rem;
+}
+body {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #052343c4;
+    background-color: navajowhite;
+}
+.con1 h1{
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  font-size: 4rem;
+  margin-left: 40rem;
+}
+.con1 h3{
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin-left: 40rem;
+}
+.con1 img{
+  width: 42rem;
+  text-align: center;
+  margin-left: 45rem;
+}
